@@ -435,7 +435,7 @@ without actual network activity. This helps debugging tests.</stringProp>
                 <stringProp name="-1993889503">Memory</stringProp>
                 <stringProp name="112670">ram</stringProp>
               </collectionProp>
-              <collectionProp name="1354689994">
+              <collectionProp name="327993601">
                 <stringProp name="-399590863">mine.demo.com</stringProp>
                 <stringProp name="1571004">3450</stringProp>
                 <stringProp name="2112896831">Disks I/O</stringProp>
